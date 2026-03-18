@@ -8,16 +8,6 @@
   <em>Building Foundations &nbsp;·&nbsp; Nurturing Transformation &amp; Growth</em>
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/lukespeniholdings">
-    <img src="https://img.shields.io/badge/Instagram-%40lukespeniholdings-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:info@lukespeni.co.za">
-    <img src="https://img.shields.io/badge/Email-info%40lukespeni.co.za-b89a6a?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Alberton%2C%20Gauteng%2C%20SA-2c3a5c?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
-
 ---
 
 ## About
