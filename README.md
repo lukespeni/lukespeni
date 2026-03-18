@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lukespeni_logo_aloe-noeffects.png" alt="Lukespeni Holdings" width="600"/>
+  <img src="lukespeni logo aloe-noeffects.png" alt="Lukespeni Holdings" width="600"/>
 </p>
 
 <h1 align="center">Lukespeni Holdings</h1>
